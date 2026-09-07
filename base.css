@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Kurier Light";
+    src: url("fonts/kurier/KurierLight-Regular.ttf");
+}
+
+h1 {
+    font-weight: normal;
+}
+
+body {
+    font-family: "Kurier Light";
+    font-size: 14pt;
+    margin: 0 auto;
+    padding: 0 50px;
+    max-width: 650px;
+    line-height: 1.6;
+}
+
+p {
+    color: #2F2F2F;
+}
+
+.math {
+    color: #373D3F;
+    font-size: 12pt;
+}
