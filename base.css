@@ -73,7 +73,7 @@ body {
 }
 
 .article_link:hover {
-    background-color: #f5f5f5;
+    background-color: #F5F5F5;
 }
 
 .back_to_blog,
@@ -81,10 +81,12 @@ body {
     padding: 20px 0 0 0;
     text-decoration: none;
     color: inherit;
+    transition: padding-left 0.3s;
 }
 
 .back_to_blog:hover {
   font-weight: bold;
+  padding-left: 4px;
 }
 
 .article_info {
